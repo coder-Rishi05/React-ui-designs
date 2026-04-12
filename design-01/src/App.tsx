@@ -5,7 +5,7 @@ import Home from "./components/Home";
 const App = () => {
  
   return (
-    <div className="bg-[#fefaee] w-full h-screen">
+    <div className="bg-[#fefaee] ">
       <Navbar />
       <Home />
     </div>
